@@ -80,3 +80,20 @@ body {
 .layer-4, .layer-5, .layer-6 {
 	pointer-events: none;
 }
+
+.container {
+	width: 1200px;
+	align-items: center;
+	display: flex;
+	z-index: 0;
+}
+
+.header_line {
+align-items: center;
+display: flex;
+text-decoration: solid;
+}
+
+.header_text {
+	color:#fff
+}
